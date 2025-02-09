@@ -1,0 +1,21 @@
+*{
+    background-color: #d0d0d0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container article h1{
+    margin-bottom: 0;
+}
+
+.container article p{
+    margin-top: 5px;
+    font-size: 12px;
+}
+
